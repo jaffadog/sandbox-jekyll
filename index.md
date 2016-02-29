@@ -1,1 +1,6 @@
-"My Page" 
+---
+title: New Page
+layout: default
+---
+#Index
+is here...
